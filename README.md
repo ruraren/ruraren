@@ -1,4 +1,4 @@
-### Bienvenidos 
+## Bienvenidos 
 
 El representante Roly Anibal Quellca Hancco (frontend dev)
 
@@ -8,11 +8,11 @@ Aquí no hacemos *software*, hacemos **malabares con los bugs** hasta que compil
 
 **Stack:** HTML y CSS
 
-historial de salarios
-2025
 
-1150 soles/mes  - frontend developer
+### Historial de Salarios
 
-2026
+| Año | Rol | Duración | Salario Mensual |
+| :--- | :--- | :--- | :--- |
+| **2025** | Frontend Developer | 4 meses | S/ 1,150 / mes |
+| **2026** | Frontend Developer | 6 meses | S/ 800 / mes |
 
-800 soles/mes - frontend developer
