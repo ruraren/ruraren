@@ -9,7 +9,7 @@ Aquí no hacemos *software*, hacemos **malabares con los bugs** hasta que compil
 **Stack:** HTML y CSS
 
 
-### Historial de Salarios
+### Historial de Salarios tech
 
 | Año | Rol | Duración | Salario Mensual |
 | :--- | :--- | :--- | :--- |
