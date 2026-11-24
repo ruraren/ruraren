@@ -1,4 +1,4 @@
-### Bienvenidos al circo 🎪
+### Bienvenidos 
 
 El representante Roly Anibal Quellca Hancco (frontend dev)
 
@@ -8,3 +8,11 @@ Aquí no hacemos *software*, hacemos **malabares con los bugs** hasta que compil
 
 **Stack:** HTML y CSS
 
+historial de salarios
+2025
+
+1150 soles/mes  - frontend developer
+
+2026
+
+800 soles/mes - frontend developer
