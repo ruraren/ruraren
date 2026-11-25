@@ -15,4 +15,4 @@ Aquí no hacemos *software*, hacemos **malabares con los bugs** hasta que compil
 | :--- | :--- | :--- | :--- |
 | **2024** | maquetador web | 7 meses | S/ 1,080 / mes |
 | **2025** | Frontend Developer | 4 meses | S/ 1,150 / mes |
-| **2026** | Frontend Developer | 6 meses | S/ 800 / mes |
+| **2026** | Frontend Developer | 6 meses | S/ 800 / mes | actualidad
