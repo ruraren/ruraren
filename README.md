@@ -1,6 +1,6 @@
 ## Bienvenidos 
 
-El representante Roly Anibal Quellca Hancco (frontend dev)
+Mi nombre es Roly Anibal Quellca Hancco (frontend dev)
 
 **Nivel de experiencia:** Sé reiniciar el router y culpar al caché
 
